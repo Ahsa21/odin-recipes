@@ -1,0 +1,63 @@
+.decoration, .common {
+    color: red;
+}
+.common {
+    text-align: center;
+    background-color: rgb(207, 207, 43);
+    font-weight: bold;
+    font-size: 22px;
+
+}
+
+.decoration {
+    text-decoration: none;
+}
+
+
+body {
+    background-color:black;
+    color:aliceblue;
+}
+
+
+
+.img1 {
+    height: auto;
+    width: 600;
+}
+
+.img2 {
+    height: 600px;
+    width: 1300px;
+}
+
+.img3 {
+    width:1250px;
+    height:500px;
+
+}
+
+.all2 {
+    color: rgb(182, 100, 23);
+}
+
+.tit2 {
+    color: orange;
+}
+
+.description4, .tit4, .all4 {
+    color: rgb(172, 71, 71);
+}
+
+.tit4 {
+    font-family: bold;
+}
+
+
+.tit3 {
+    color:rgb(221, 221, 90)
+}
+
+.all3 {
+    color:rgb(158, 158, 19)
+}
